@@ -1,0 +1,13 @@
+{
+    "autoload": {
+        "psr-4": {
+            "BeycanPress\\Tokenico\\": "app"
+        }
+    },
+    "require": {
+        "beycan/wp-table": "^1.0",
+        "beycan/response": "^1.0",
+        "beycan/moodel": "^1.2",
+        "beycan/envato-license-checker": "^1.0"
+    }
+}

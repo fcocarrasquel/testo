@@ -1,0 +1,203 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "150aa2e516abebbc8609ada1e780c29a",
+    "packages": [
+        {
+            "name": "beycan/envato-license-checker",
+            "version": "1.0.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/BeycanDeveloper/envato-license-checker.git",
+                "reference": "614f19935830de3d77402ac3f5b8520b98aec9e7"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/BeycanDeveloper/envato-license-checker/zipball/614f19935830de3d77402ac3f5b8520b98aec9e7",
+                "reference": "614f19935830de3d77402ac3f5b8520b98aec9e7",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.3"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Beycan\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "LGPL-3.0"
+            ],
+            "authors": [
+                {
+                    "name": "Halil Beycan",
+                    "email": "halilbeycan0@gmail.com"
+                }
+            ],
+            "description": "A class where you can check the purchase code provided by envato so you can add a licensing system to your Envato products.",
+            "homepage": "https://github.com/BeycanDeveloper/envato-license-checker",
+            "support": {
+                "issues": "https://github.com/BeycanDeveloper/envato-license-checker/issues",
+                "source": "https://github.com/BeycanDeveloper/envato-license-checker/tree/1.0.2"
+            },
+            "time": "2021-10-16T20:47:42+00:00"
+        },
+        {
+            "name": "beycan/moodel",
+            "version": "1.2.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/BeycanDeveloper/moodel.git",
+                "reference": "bba65b5e7ef0f672bfdef5977cd9e45f9d9d50ea"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/BeycanDeveloper/moodel/zipball/bba65b5e7ef0f672bfdef5977cd9e45f9d9d50ea",
+                "reference": "bba65b5e7ef0f672bfdef5977cd9e45f9d9d50ea",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.3"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Beycan\\Moodel\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "LGPL-3.0"
+            ],
+            "authors": [
+                {
+                    "name": "Halil Beycan",
+                    "email": "halilbeycan0@gmail.com"
+                }
+            ],
+            "description": "Easily create and manage databases in WordPress plugins and themes. It allows you to model your WordPress databases with PHP classes and do your operations from these models.",
+            "homepage": "https://github.com/BeycanDeveloper/moodel",
+            "keywords": [
+                "database",
+                "db",
+                "model",
+                "modeler",
+                "orm",
+                "query",
+                "table",
+                "wordpress",
+                "wpdb"
+            ],
+            "support": {
+                "issues": "https://github.com/BeycanDeveloper/moodel/issues",
+                "source": "https://github.com/BeycanDeveloper/moodel/tree/1.2.0"
+            },
+            "time": "2021-12-15T13:15:17+00:00"
+        },
+        {
+            "name": "beycan/response",
+            "version": "1.0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/BeycanDeveloper/response.git",
+                "reference": "38384ef2152d037728bb9a89a422438b86e0bf74"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/BeycanDeveloper/response/zipball/38384ef2152d037728bb9a89a422438b86e0bf74",
+                "reference": "38384ef2152d037728bb9a89a422438b86e0bf74",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.3"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Beycan\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "LGPL-3.0"
+            ],
+            "authors": [
+                {
+                    "name": "Halil Beycan",
+                    "email": "halilbeycan0@gmail.com"
+                }
+            ],
+            "description": "A simple and useful class to return json response in PHP.",
+            "homepage": "https://github.com/BeycanDeveloper/response",
+            "support": {
+                "issues": "https://github.com/BeycanDeveloper/response/issues",
+                "source": "https://github.com/BeycanDeveloper/response/tree/1.0.1"
+            },
+            "time": "2021-10-07T10:48:19+00:00"
+        },
+        {
+            "name": "beycan/wp-table",
+            "version": "1.0.3",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/BeycanDeveloper/wp-table.git",
+                "reference": "6ec757ade53ea1056f56bbe0881f2b240940110e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/BeycanDeveloper/wp-table/zipball/6ec757ade53ea1056f56bbe0881f2b240940110e",
+                "reference": "6ec757ade53ea1056f56bbe0881f2b240940110e",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.3"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Beycan\\WPTable\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "LGPL-3.0"
+            ],
+            "authors": [
+                {
+                    "name": "Halil Beycan",
+                    "email": "halilbeycan0@gmail.com"
+                }
+            ],
+            "description": "Create tables for WordPress very easily.",
+            "homepage": "https://github.com/BeycanDeveloper/wp-table",
+            "keywords": [
+                "WP_List_Table",
+                "builder",
+                "creator",
+                "examples",
+                "table",
+                "wordpress",
+                "wp-list-table"
+            ],
+            "support": {
+                "issues": "https://github.com/BeycanDeveloper/wp-table/issues",
+                "source": "https://github.com/BeycanDeveloper/wp-table/tree/1.0.3"
+            },
+            "time": "2021-12-02T14:04:03+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.0.0"
+}

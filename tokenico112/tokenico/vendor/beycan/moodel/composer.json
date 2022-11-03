@@ -1,0 +1,26 @@
+{
+    "name": "beycan/moodel",
+    "version": "1.2.0",
+    "description": "Easily create and manage databases in WordPress plugins and themes. It allows you to model your WordPress databases with PHP classes and do your operations from these models.",
+    "keywords": ["wordpress", "wpdb", "orm", "model", "query", "modeler", "db", "database", "table"],
+    "type": "library",
+    "license": "LGPL-3.0",
+    "authors": [
+        {
+            "name": "Halil Beycan",
+            "email": "halilbeycan0@gmail.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/BeycanDeveloper/moodel/issues"
+    },
+    "homepage": "https://github.com/BeycanDeveloper/moodel",
+    "require": {
+        "php": ">=7.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Beycan\\Moodel\\" : "src"
+        }
+    }
+}
